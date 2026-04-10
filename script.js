@@ -1,4 +1,3 @@
 function showThankYou()
-{alert
-("Thanks for visiting my website!");
+{document.getElementById("message").textContent = "Thanks for clicking the button!🎉");
 }
