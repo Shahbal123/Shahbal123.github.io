@@ -24,3 +24,17 @@ color: #777;
   padding: 20px 0;
 border-top: 1px solid #ddd;
 }
+
+nav
+{margin-top: 10px;
+font-size: 18px;
+}
+nav a
+{color : #2b6cb0;
+text-decoration: none;
+margin: 0 10px;
+}
+
+nav a:hover
+{text-decoration: underline;
+}
