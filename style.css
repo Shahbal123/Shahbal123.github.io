@@ -38,3 +38,12 @@ margin: 0 10px;
 nav a:hover
 {text-decoration: underline;
 }
+
+.dark-mode{
+background-color: #121212;
+color: #e0e0e0;
+}
+.dark-mode header,
+.dark-mode main,
+.dark-mode footer {background-color: #1e1e1e;
+}
